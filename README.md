@@ -1,6 +1,6 @@
 # 🧠 English Article Translator & Summarizer Workflow
 
-这是一个基于 [Astron Agent](GitHub - iflytek/astron-agent: Enterprise-grade, commercial-friendly agentic workflow platform for b) 的工作流，用来自动**翻译英文文章并生成摘要**。  
+这是一个基于 [Astron Agent](https://github.com/iflytek/astron-agent) 的工作流，用来自动**翻译英文文章并生成摘要**。  
 工作流分三步走：
 
 1. 调用大模型，将原文翻译成中文；  
